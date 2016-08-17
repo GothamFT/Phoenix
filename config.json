@@ -1,0 +1,32 @@
+{
+  "SpreadEntry": 0.0030,
+  "SpreadExit": -0.0040,
+  "MaxLength": 5184000, 
+  "GapSec": 5,
+
+  "UseFullCash": false,
+  "UntouchedCash": 0.01, 
+  "CashForTesting": 15.00,
+  
+  "DebugMaxIteration": 3200000,
+  "Verbose": true,
+  
+  "SendEmail": false,
+  "SenderAddress": "",
+  "SenderUsername": "",
+  "SenderPassword": "",
+  "SmtpServerAddress": "",
+  "ReceiverAddress": "",
+
+  "BitfinexApiHead": "X-BFX-APIKEY:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "BitfinexKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "OkCoinApiKey": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "OkCoinSecretKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "BitstampClientId": "XXXXXX",
+  "BitstampApiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "BitstampSecretKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "KrakenApiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "KrakenSecretKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "ItBitApiKey": "",
+  "ItBitSecretKey": ""
+}
